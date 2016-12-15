@@ -1,0 +1,15 @@
+net display(0) loc = "H14";
+net display(1) loc = "J17";
+net display(2) loc = "G14";
+net display(3) loc = "D16";
+net display(4) loc = "D17";
+net display(5) loc = "F18";
+net display(6) loc = "L18";
+net clk 			loc = "B8";
+net pause		loc = "G18";
+net reset		loc = "H18";
+net showHours	loc = "K18";
+net enableDisplay(0)	loc = "F15";
+net enableDisplay(1)	loc = "C18";
+net enableDisplay(2)	loc = "H17";
+net enableDisplay(3)	loc = "F17";
